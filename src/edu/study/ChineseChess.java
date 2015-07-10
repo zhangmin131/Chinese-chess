@@ -108,7 +108,7 @@ class ChessMainFrame extends JFrame implements ActionListener, MouseListener,
 		FileVar = new Vector();
 		Var = new Vector();
 
-		// 创建工具栏
+	 	// 创建工具栏
 		jmain = new JToolBar();
 		text = new JLabel("  热烈欢迎");
 		text.setToolTipText("提示信息");
